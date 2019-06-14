@@ -29,6 +29,8 @@ coins = [
 - ***price_eur***, ***worth*** and ***made_loss*** - 0 by default, will be populated when data comes back from CMC
 
 ---
+## Install dependencies
+- `pip install requests flask flask-restful`
 
 ## Run It Locally
 1. Clone this repository
